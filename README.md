@@ -1,6 +1,6 @@
 # Adidas Sales Analysis
 
-![Adidas Logo](./Logo.png)
+<img src="./Logo.png" alt="Adidas Logo" width="200" height="200">
 
 End-to-end analysis of Adidas' US sales data from raw data cleaning to an interactive Power BI dashboard to identify performance gaps and growth opportunities across products, retailers, regions and sales channels.
 
